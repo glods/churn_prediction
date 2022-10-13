@@ -13,6 +13,5 @@ This repository contents 3 files :
 # PROGRAMMING LANGUAGE 
 All is done in python
 
-# Author 
-Glorie M. WOWO 
-
+# Author
+Glorie M. WOWO ; [My Linkedin link](https://cm.linkedin.com/in/glorie-metsa-wowo-97642211b)
